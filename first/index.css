@@ -1,0 +1,22 @@
+*{
+    background-color: #D8D8D8;
+    margin: 0px;
+}
+.grey-rectangle{
+    width: 100%;
+    height: 17vh;
+    background-color: #444444;
+    margin: 0px;
+}
+.center{
+    background-color: white;
+    width: 75vw;
+    height:75vh;
+    margin: auto;
+}
+.bot{
+    background-color: #222222;
+    height: 8vh;
+    width: 75vw;
+    margin: auto;
+}
