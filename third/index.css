@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px 0px 0px 0px;
+}
+.row{
+    width: 100vw;
+    height: 100px;
+}
+.gray{
+    background: #D8D8D8;
+}
+.square{
+    height: 50px;
+    width: 50px;
+    margin: 25px 25px 25px 25px;
+    display: inline-block;
+}
+.white{
+    height: 100px;
+    width: 100vw;
+    padding: 50px;
+}
+.text{
+    width: 90vw;
+    height: 100px;
+}
+.blue{
+    background-color: #4A90E2;
+}
+.lightblue{
+    background-color: #50E3C2;
+}
+.green{
+    background-color: #B8E986;
+}
+.yellow{
+    background-color: #F8E71C;
+}
